@@ -7,6 +7,7 @@
 - Untuk soal yang berjenis pertanyaan, silahkan kumpulkan dalam format markdown
  `.md` file
 - Pengumpulan yang tidak sesuai dengan instruksi, tidak akan dinilai.
+- Semua project wajib menggunakan identifier/domain sesuai author, Contoh: `com.dhanifudin`
 
 ## Disclaimer
 
